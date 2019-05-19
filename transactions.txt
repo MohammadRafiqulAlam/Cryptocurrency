@@ -1,0 +1,3 @@
+From: Alice To: Bob Amount: 50
+From: Bob To: Charlie Amount: 20
+From: Bob To: Dylan Amount: 50
