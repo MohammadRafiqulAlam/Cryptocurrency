@@ -1,0 +1,8 @@
+Details
+
+You need to have VMWare Player installed to use the virtual machine, this should already be present on the lab systems
+
+You will need to download each file provided, then unpack the first archive and then run the .vmx file
+
+The username for the virtual machine is "jeff"
+The password for the virtual machine is "password"
